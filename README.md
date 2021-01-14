@@ -17,6 +17,7 @@
  Xposition = circleRadius * sin(360/NumberOfAgentsInCircle * AgentNumber)
  ```
  Below you'll seen an example of a formation with a **radius of 2** and **6 agents**
+ 
  ![AltText](https://cdn.discordapp.com/attachments/720322360330158211/799274524435546172/unknown.png)
  
  Obviously you can change the rafius size and NrAgents accordingly to adapt the circle to your needs. But this layed down the basics.
